@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("dom file");var e,o=document.querySelector("body");console.log("index file"),(e=document.createElement("h1")).textContent="test",o.appendChild(e),o.style.background="peachpuff",console.log("mario@theninja.com"),console.log({users:[{name:"mario",job:"delivery man"},{name:"nishat",job:"delivery man"},{name:"hera",job:"delivery man"}]})})();
